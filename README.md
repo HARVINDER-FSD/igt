@@ -66,9 +66,9 @@ npm run client
 
 ---
 
-## ⚙️ Setting Up Live Gmail / SMTP in `.env`
+## ⚙️ Setting Up Live Gmail / SMTP in `server/.env`
 
-Open `.env` in the root folder and add your credentials:
+Open `server/.env` and add your credentials:
 
 ```env
 PORT=5000
